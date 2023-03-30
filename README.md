@@ -1,0 +1,1 @@
+a simple calculator program written in C language. It prompts the user to enter an operator ( +, -, /, or *) and two operands. Then, using a switch-case statement, the program performs the corresponding arithmetic operation on the two operands and displays the result to the user
